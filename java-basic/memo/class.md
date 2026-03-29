@@ -52,4 +52,4 @@
 <br>
 
 ### ClassStart2 동작 과정 그림
-![ClassStart2](../image/class-img1.png)
+![ClassStart2](image/class-img1.png)
